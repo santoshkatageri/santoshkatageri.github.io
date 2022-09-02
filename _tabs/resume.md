@@ -1,7 +1,8 @@
 ---
 title: Resume
 icon: fas fa-info-circle
-order: 5
+order: 2
 ---
 
-<embed src="https://santoshkatageri.github.io/resume/" type="application/pdf"/>
+
+<object target="_blank" data="https://santoshkatageri.github.io/resume/" width="600" height="700" type="application/pdf"></object>

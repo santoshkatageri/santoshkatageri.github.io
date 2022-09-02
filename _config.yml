@@ -36,7 +36,10 @@ github:
   username: santoshkatageri             # change to your github username
 
 twitter:
-  username: spkatageri           # change to your twitter username
+  username: spkatageri    
+  
+linkedin:
+  username: santoshkatageri        # change to your twitter username
 
 social:
   # Change to your full name.
