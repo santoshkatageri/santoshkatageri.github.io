@@ -5,4 +5,4 @@ order: 2
 ---
 
 
-<object target="_blank" data="https://santoshkatageri.github.io/resume/" width="600" height="700" type="application/pdf"></object>
+<object data="https://docs.google.com/gview?url=https://github.com/santoshkatageri/resume/raw/main/SantoshKatageri.pdf&embedded=true" width="600" height="700" type="application/pdf"></object>
