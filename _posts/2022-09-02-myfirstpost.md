@@ -1,7 +1,7 @@
 ---
 title: My First Post
-date: 2022-08-30 12:00:00
-catagories: [first-post,test,jekyll]
+date: 2022-08-30 12:00:00 +0800
+categories: [first-post, test,jekyll]
 tags: [first,test]
 ---
 
